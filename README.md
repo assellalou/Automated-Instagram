@@ -1,3 +1,5 @@
 # IGLikerBot
-I'm not good at describing
+
+**change this to your own username and password**
 ```login('username','password')```
+
