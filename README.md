@@ -1,6 +1,6 @@
 # IGLikerBot
-## I'm not good at describing stuff
-:broken_heart: :cry:
+## I'm not good at describing stuff:broken_heart: :cry:
+
 
 **change this to your own username and password**<br />
   ```ass = AssellBot('username','password')```<br />
